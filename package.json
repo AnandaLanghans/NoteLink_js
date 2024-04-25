@@ -2,7 +2,7 @@
   "name": "notelink_js",
   "version": "1.0.0",
   "description": "",
-  "main": "temp.js",
+  "main": ".src/temp.js",
   "dependencies": {
     "acorn": "^8.11.3",
     "acorn-import-assertions": "^1.9.0",
